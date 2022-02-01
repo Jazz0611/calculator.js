@@ -1,1 +1,2 @@
-{}
+{"C:\\Users\\jaskiran.kaur\\calculator-js\\src\\calc.js": {"path":"C:\\Users\\jaskiran.kaur\\calculator-js\\src\\calc.js","statementMap":{"0":{"start":{"line":1,"column":12},"end":{"line":1,"column":26}},"1":{"start":{"line":1,"column":21},"end":{"line":1,"column":26}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":12},"end":{"line":1,"column":13}},"loc":{"start":{"line":1,"column":21},"end":{"line":1,"column":26}},"line":1}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"1330ac5a0774811b5777bf4a32545316e29da7da"}
+}

@@ -17,5 +17,9 @@
     "@babel/core": "^7.16.12",
     "@babel/preset-env": "^7.16.11",
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001304",
+    "statuses": "^2.0.1"
   }
 }
